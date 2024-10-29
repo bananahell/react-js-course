@@ -11,3 +11,7 @@ A simple todo list to learn the basics of React. In it, I learned React's projec
 ## APOD
 
 Another simple project to learn how to consume APIs. [Nasa's Astronomy Picture of the Day (APOD)](https://api.nasa.gov/) was used to show the content available from its API. The project shows Nasa's "APOD" and describes it as its API does.  
+
+## SWOLENORMOUS
+
+A project a bit bigger than the previous two that suggests exercises based on user choices. Has more components and variables to keep track of, meaning a bigger complexity between them. Project also heavily uses [TailwindCSS](https://tailwindcss.com/).  
